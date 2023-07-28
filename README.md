@@ -2,7 +2,7 @@
 <h2>Web Developer 🎨</h2>
 
 ### About Me
-Throughout my career, I've leveraged my electronic engineering background to tackle a variety of projects. My ability to apply analytical thinking and problem-solving skills from engineering to web development has allowed me to contribute to innovative projects.
+Throughout my career, I've leveraged my electronic engineering background to tackle a variety of projects. My ability to apply analytical thinking and problem-solving skills from engineering has allowed me to contribute to innovative projects.
 
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy programming backend and frontend technologies.
