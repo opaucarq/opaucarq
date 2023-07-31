@@ -5,7 +5,7 @@
 Throughout my career, I've leveraged my electronic engineering background to tackle a variety of projects. My ability to apply analytical thinking and problem-solving skills from engineering has allowed me to contribute to innovative projects.
 
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- I enjoy programming backend and frontend technologies.
+- I am passionate about coding and technology.
 
 ### Technologies
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
